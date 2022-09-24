@@ -64,6 +64,16 @@
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
+    }  ,
+       ,
+      {
+      "Id": "fcde9550-1b2e-4cdc-8ea9-d2117e85dce1",
+      "Name": "New Category 8",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
     }  
   ],
   "Audiences": [
