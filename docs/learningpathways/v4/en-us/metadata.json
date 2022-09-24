@@ -56,14 +56,23 @@
       "SubCategories": []
     },
         {
-      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
-      "Name": "New Category 7",
+      "Id": "1c72afd6-ced7-421c-a481-b8ea770a8e0b",
+      "Name": "New Category 8",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
-    }       
+    }    ,
+      {
+      "Id": "92705d59-56c1-4ea7-855d-32a8b0164fd7",
+      "Name": "New Category 9",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    }  
   ],
   "Audiences": [
     {
