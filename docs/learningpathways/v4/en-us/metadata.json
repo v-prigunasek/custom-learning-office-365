@@ -18,62 +18,7 @@
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
-    },
-    {
-      "Id": "b9c5429f-aae2-48fb-aa36-b834587d54fe",
-      "Name": "Data Science",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
-      "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
-      "Name": "Industry Knowledge",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
-      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
-      "Name": "Modelling",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    
-        {
-      "Id": "1c72afd6-ced7-421c-a481-b8ea770a8e0b",
-      "Name": "New Category 6",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    }    ,
-      {
-      "Id": "92705d59-56c1-4ea7-855d-32a8b0164fd7",
-      "Name": "New Category 7",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-      {
-      "Id": "fcde9550-1b2e-4cdc-8ea9-d2117e85dce1",
-      "Name": "New Category 8",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    }  
+    }
   ],
   "Audiences": [
     {
