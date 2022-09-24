@@ -38,15 +38,6 @@
       "SubCategories": []
     },
     {
-      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
-      "Name": "Modelling",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "",
-      "SubCategories": []
-    },
-    {
       "Id": "e17b478d-3812-46b6-bf98-7a43454b8c91",
       "Name": "New Cateogry 6",
       "Image": "",
@@ -55,6 +46,16 @@
       "Source": "",
       "SubCategories": []
     },
+    {
+      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
+      "Name": "Modelling",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    },
+    
         {
       "Id": "1c72afd6-ced7-421c-a481-b8ea770a8e0b",
       "Name": "New Category 8",
