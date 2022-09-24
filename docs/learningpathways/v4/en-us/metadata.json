@@ -45,7 +45,25 @@
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
-    }
+    },
+    {
+      "Id": "e17b478d-3812-46b6-bf98-7a43454b8c91",
+      "Name": "New Cateogry 6",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    },
+        {
+      "Id": "5e4e57a8-af4b-45d9-b8de-d8d17f64075e",
+      "Name": "New Category 7",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
+    }       
   ],
   "Audiences": [
     {
