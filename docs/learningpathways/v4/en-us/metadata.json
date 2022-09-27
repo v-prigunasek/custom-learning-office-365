@@ -27,6 +27,15 @@
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
+    },
+     {
+      "Id": "e322b643-61b8-4f65-906d-802ff5ecb3fb",
+      "Name": "Industry Knowledge",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
     }
   ],
   "Audiences": [
