@@ -18,6 +18,15 @@
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
+    },
+     {
+      "Id": "9bab695c-8755-457b-9f8a-14bfd070d3ac",
+      "Name": "New Category",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
     }
   ],
   "Audiences": [
