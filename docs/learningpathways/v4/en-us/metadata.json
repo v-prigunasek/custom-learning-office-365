@@ -18,6 +18,15 @@
       "SubjectId": "",
       "Source": "",
       "SubCategories": []
+    },
+     {
+      "Id": "8619cf0e-7de6-46ed-9e02-88b704611414",
+      "Name": "Information Technology",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "",
+      "SubCategories": []
     }
   ],
   "Audiences": [
